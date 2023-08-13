@@ -1,6 +1,8 @@
 # Forecast-sales-quantity
-## Question 1:
-### Forecast for the sales quantity for =>> { Category - > SPICES , RICE
+## Herewith had attached your assessment questions and dataset excel file.If you have any questions or concerns reach out to me. 
+
+### Question 1:
+#### Forecast for the sales quantity for =>> { Category - > SPICES , RICE
 Item - > MIDR6, 4SM25
 Loc - > 02 , 04 }
 For the months Jan, Feb, March, April, May and June 2023. Find the Mean Absolute Perecentage Error for
@@ -8,8 +10,8 @@ SPICE, RICE, MIDR6 ... and other mentioned in the question?
 
 
 
-## Question 2:
-### Also find 5 insights from the data? Example (which product has highest selling / or some trend analysis)
+###  Question 2:
+####  Also find 5 insights from the data? Example (which product has highest selling / or some trend analysis)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
